@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人工作台生成器"
+  short_description: "多渠道需求发现、三风格工作台生成与端到端验收"
+  default_prompt: "Use $build-personal-ops-workbench to discover my needs, let me choose from three UI styles, and build a tested workbench from authorized work data."
