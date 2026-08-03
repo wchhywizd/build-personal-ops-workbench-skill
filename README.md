@@ -2,6 +2,8 @@
 
 让 AI 先理解你的工作，再为你生成真正可日常使用的个人工作台。
 
+<img src="poster/build-personal-ops-workbench-poster.png" width="720" alt="Build Personal Ops Workbench 宣传长图" />
+
 这个 Skill 会完成完整闭环：需求问询、多渠道资料授权、项目扫描、MECE 建模、飞书/钉钉/本地数据底座、三套 UI 风格、真实数据填充与端到端验收。
 
 ## 核心能力
